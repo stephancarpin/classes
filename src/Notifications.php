@@ -6,7 +6,7 @@
  * Time: 09:46
  */
 
-namespace App\Classes;
+namespace stephancarpin\classes;
 
 
 class Notifications
